@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-memory/static/css/main.cf1d9eb4.chunk.css",
+    "main.js": "/react-memory/static/js/main.0e5566de.chunk.js",
+    "main.js.map": "/react-memory/static/js/main.0e5566de.chunk.js.map",
+    "runtime-main.js": "/react-memory/static/js/runtime-main.5f3d2987.js",
+    "runtime-main.js.map": "/react-memory/static/js/runtime-main.5f3d2987.js.map",
+    "static/js/2.c1c9930c.chunk.js": "/react-memory/static/js/2.c1c9930c.chunk.js",
+    "static/js/2.c1c9930c.chunk.js.map": "/react-memory/static/js/2.c1c9930c.chunk.js.map",
+    "static/js/3.c976dfd5.chunk.js": "/react-memory/static/js/3.c976dfd5.chunk.js",
+    "static/js/3.c976dfd5.chunk.js.map": "/react-memory/static/js/3.c976dfd5.chunk.js.map",
+    "index.html": "/react-memory/index.html",
+    "static/css/main.cf1d9eb4.chunk.css.map": "/react-memory/static/css/main.cf1d9eb4.chunk.css.map",
+    "static/js/2.c1c9930c.chunk.js.LICENSE.txt": "/react-memory/static/js/2.c1c9930c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-memory/static/media/card_back.40b47a92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f3d2987.js",
+    "static/js/2.c1c9930c.chunk.js",
+    "static/css/main.cf1d9eb4.chunk.css",
+    "static/js/main.0e5566de.chunk.js"
+  ]
+}
