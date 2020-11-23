@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/memory/static/css/main.e9d846ac.chunk.css",
-    "main.js": "/memory/static/js/main.46f83184.chunk.js",
-    "main.js.map": "/memory/static/js/main.46f83184.chunk.js.map",
+    "main.css": "/memory/static/css/main.c205f668.chunk.css",
+    "main.js": "/memory/static/js/main.4dedc0cf.chunk.js",
+    "main.js.map": "/memory/static/js/main.4dedc0cf.chunk.js.map",
     "runtime-main.js": "/memory/static/js/runtime-main.f1c0f184.js",
     "runtime-main.js.map": "/memory/static/js/runtime-main.f1c0f184.js.map",
     "static/js/2.a9ede504.chunk.js": "/memory/static/js/2.a9ede504.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c976dfd5.chunk.js": "/memory/static/js/3.c976dfd5.chunk.js",
     "static/js/3.c976dfd5.chunk.js.map": "/memory/static/js/3.c976dfd5.chunk.js.map",
     "index.html": "/memory/index.html",
-    "static/css/main.e9d846ac.chunk.css.map": "/memory/static/css/main.e9d846ac.chunk.css.map",
+    "static/css/main.c205f668.chunk.css.map": "/memory/static/css/main.c205f668.chunk.css.map",
     "static/js/2.a9ede504.chunk.js.LICENSE.txt": "/memory/static/js/2.a9ede504.chunk.js.LICENSE.txt",
     "static/media/App.css": "/memory/static/media/card_back.40b47a92.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1c0f184.js",
     "static/js/2.a9ede504.chunk.js",
-    "static/css/main.e9d846ac.chunk.css",
-    "static/js/main.46f83184.chunk.js"
+    "static/css/main.c205f668.chunk.css",
+    "static/js/main.4dedc0cf.chunk.js"
   ]
 }
